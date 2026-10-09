@@ -1,0 +1,15 @@
+{
+  "std_no": "GB/T 28448-2019",
+  "std_name": "信息安全技术 网络安全等级保护测评要求",
+  "standard_type": "推荐性国标",
+  "admin_dept": "公安部",
+  "issue_date": "2019-05-10",
+  "implement_date": "2019-12-01",
+  "status": "现行（在线预览图源抓取，非官方 PDF 版）",
+  "kb_category": "01_国家标准",
+  "source": "国家标准全文公开系统 openstd.samr.gov.cn 在线预览自动抓取（非人工提供，未做人工全文校对）",
+  "quality_note": "全文由官方在线预览页图片经瓦片重组+OCR 生成；文字可用于检索与交叉比对，正式引用条款前应核对官方文本/纸质出版物；OCR 对个别符号（如 I/l、全半角括号）可能存在误读",
+  "ingest_date": "2026-09-07",
+  "pages": 290,
+  "remark": "抓取链路见 docs/openstd抓取链路实测_2026-09-07.md；hcno=7E736CDF4502B6FF1258DD250AA3EC8C"
+}

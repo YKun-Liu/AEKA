@@ -1,0 +1,23 @@
+{
+  "std_no": "GB/T 50326-2017",
+  "std_name": "建设工程项目管理规范",
+  "std_name_en": "Code for construction project management",
+  "standard_type": "国家标准（工程建设类）",
+  "phase": "管理规范",
+  "publisher": "中华人民共和国住房和城乡建设部",
+  "admin_dept": "中华人民共和国住房和城乡建设部（管理）；中国建筑业协会（主编单位）",
+  "issue_date": "2017-05-04",
+  "implement_date": "2018-01-01",
+  "replaces": "GB/T 50326-2006",
+  "announcement_no": "中华人民共和国住房和城乡建设部公告第1536号",
+  "status": "现行",
+  "kb_category": "01_国家标准",
+  "source": "用户 Liu 提供（人工确认入库）；发布日期与代替关系经住建部官网公告核实",
+  "quality_note": "文本由 PyMuPDF 从用户提供的 PDF 直接提取（非 OCR）；已生成去字间空格/全角转半角的清洗版供检索",
+  "date_source": "住房和城乡建设部公告第1536号原文（https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2017/art_17339_232411.html）：2017-05-04 发布、2018-01-01 实施，原 GB/T 50326-2006 同时废止",
+  "kb_category_note": "分类沿用既有实践：按标准来源（国标/民航）；阶段属性见 phase 字段",
+  "ingest_date": "2026-09-17",
+  "raw_file": "data\\raw\\GBT-50326-2017-建设工程项目管理规.pdf",
+  "processed_file": "data\\processed\\GB_T 50326-2017_建设工程项目管理规范.txt",
+  "pages": 85
+}

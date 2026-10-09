@@ -1,0 +1,22 @@
+{
+  "std_no": "GB/T 28181-2016",
+  "std_name": "公共安全视频监控联网系统信息传输、交换、控制技术要求",
+  "std_name_en": "Technical requirements for information transport, switch and control in video surveillance network system for public security",
+  "standard_type": "国家标准（推荐性）",
+  "phase": "技术要求",
+  "publisher": "中华人民共和国国家质量监督检验检疫总局、中国国家标准化管理委员会",
+  "admin_dept": "公安部",
+  "issue_date": "2016-07-12",
+  "implement_date": "2016-08-01",
+  "replaces": "GB/T 28181-2011",
+  "status": "已被 GB/T 28181-2022 代替（历史版本，仅供版本对比）",
+  "kb_category": "01_国家标准",
+  "source": "用户 Liu 提供（人工确认入库）",
+  "quality_note": "文本由 PyMuPDF 从用户提供的 PDF 直接提取（非 OCR）；已生成去字间空格/全角转半角的清洗版供检索",
+  "date_source": "PDF 封面（2016-07-12 发布 / 2016-08-01 实施；代替 GB/T 28181-2011）",
+  "kb_category_note": "分类沿用既有实践：按标准来源（国标/民航）；阶段属性见 phase 字段",
+  "ingest_date": "2026-09-17",
+  "raw_file": "data\\raw\\GBT 28181-2016 公共安全视频监控联网系统信息传输、交换、控制技术要求.pdf",
+  "processed_file": "data\\processed\\GB_T 28181-2016_公共安全视频监控联网系统信息传输交换控制技术要求.txt",
+  "pages": 213
+}

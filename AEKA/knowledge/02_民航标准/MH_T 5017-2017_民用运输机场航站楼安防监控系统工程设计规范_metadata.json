@@ -1,0 +1,22 @@
+{
+  "std_no": "MH/T 5017-2017",
+  "std_name": "民用运输机场航站楼安防监控系统工程设计规范",
+  "std_name_en": "Design code for security and protection system engineering of civil transport airport terminal building",
+  "standard_type": "民航行业标准",
+  "phase": "设计规范",
+  "publisher": "中国民用航空局",
+  "admin_dept": "中国民用航空局（批准部门）；北京中航弱电系统工程有限公司（主编单位）",
+  "issue_date": "2017-11-28",
+  "implement_date": "2018-01-01",
+  "replaces": "MH/T 5017-2004",
+  "status": "现行",
+  "kb_category": "02_民航标准",
+  "source": "用户 Liu 提供（人工确认入库）",
+  "quality_note": "文本由 PyMuPDF 从用户提供的 PDF 直接提取（非 OCR）；已生成去字间空格/全角转半角的清洗版供检索",
+  "date_source": "PDF 封面（2017-11-28 发布 / 2018-01-01 施行；代替 MH/T 5017-2004）",
+  "kb_category_note": "分类沿用既有实践：按标准来源（国标/民航）；阶段属性见 phase 字段",
+  "ingest_date": "2026-09-17",
+  "raw_file": "data\\raw\\MHT5017-2017 民用运输机场航站楼安防监控系统工程设计规范.pdf",
+  "processed_file": "data\\processed\\MH_T 5017-2017_民用运输机场航站楼安防监控系统工程设计规范.txt",
+  "pages": 31
+}

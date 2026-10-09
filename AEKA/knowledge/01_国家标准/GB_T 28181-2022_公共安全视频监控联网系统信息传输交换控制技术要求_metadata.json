@@ -1,0 +1,27 @@
+{
+  "std_no": "GB/T 28181-2022",
+  "std_name": "公共安全视频监控联网系统信息传输、交换、控制技术要求",
+  "std_name_en": "Technical requirements for information transmission, switch and control in video surveillance networking system for public security",
+  "standard_type": "国家标准（推荐性）",
+  "ics": "13.310",
+  "ccs": "A 91",
+  "publisher": "国家市场监督管理总局、国家标准化管理委员会",
+  "issue_date": "2022-12-30",
+  "implement_date": "2023-07-01",
+  "replaces": "GB/T 28181-2016",
+  "supersedes_history": [
+    "GB/T 28181-2016"
+  ],
+  "proposer": null,
+  "admin_dept": "公安部",
+  "drafting_unit": null,
+  "status": "现行（在线预览图源抓取，非官方 PDF 版）",
+  "kb_category": "01_国家标准",
+  "source": "国家标准全文公开系统 openstd.samr.gov.cn 在线预览自动抓取（非人工提供，未做人工全文校对）",
+  "quality_note": "全文由官方在线预览页图片经瓦片重组+OCR 生成；文字可用于检索与交叉比对，正式引用条款前应核对官方文本/纸质出版物；OCR 对个别符号（如 I/l、全半角括号）可能存在误读",
+  "ingest_date": "2026-09-07",
+  "raw_file": "data\\gb_fetch\\GB_T_28181-2022\\walls\\（42 张原始瓦片 webp，瓦片乱序，不可直接阅读）",
+  "processed_file": "data\\gb_fetch\\GB_T_28181-2022\\full_text_ocr.txt（分页合并版）；data\\gb_fetch\\GB_T_28181-2022\\pages\\（166 页重建 PNG）；knowledge\\01_国家标准\\GB_T 28181-2022_公共安全视频监控联网系统信息传输交换控制技术要求_清洗版.txt（推荐检索/阅读）",
+  "pages": 166,
+  "remark": "视频监控联网系统信息传输/交换/控制领域核心国标，与 MH/T 7003-2017（安防设施）可做国标 vs 民航标准交叉比对。抓取机制：showGb?type=online 页签内 viewGbImg 接口需头 Cache-Alive:chunked + 会话 Cookie；页面瓦片防盗，按 layout 重组还原。"
+}
