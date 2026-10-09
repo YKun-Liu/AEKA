@@ -44,3 +44,24 @@ AEKA/
 - 开发蓝图：`docs/民航弱电工程知识Agent_V1.0_开发蓝图.md`
 - 技能规则：`skills/civil-aviation-engineering/SKILL.md`
 - 工程工具规划：`skills/civil-aviation-engineering/references/engineering-tools.md`
+
+## Tools
+
+### Local notes (migrated from TOOLS.md)
+
+# TOOLS.md - 本地环境笔记
+
+## 模型
+
+- 云端默认：deepseek/deepseek-v4-flash（别名 DeepSeek）
+- 本地：ollama/deepseek-r1:8b（Ollama 0.32.5，http://127.0.0.1:11434）
+- 会话内切换：`/model ollama/deepseek-r1:8b` 或 `/model deepseek/deepseek-v4-flash`
+
+## 知识库
+
+- 根目录：`knowledge/`（01_国家标准 ~ 08_个人经验）
+- 资料进入前需人工确认；Agent 只读
+
+## Git
+
+- 项目仓库：E:\openclaw\workspace（AEKA 与主工作区同仓库）
