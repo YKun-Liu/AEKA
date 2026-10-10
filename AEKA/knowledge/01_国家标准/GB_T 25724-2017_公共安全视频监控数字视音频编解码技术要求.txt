@@ -3439,8 +3439,7 @@ GB/T 25724 一 2017
 如 果 dxXdy 小 于 0 ， 则 iXn=iX-kI,iXnP2=iX-k2,iXnNl 一 iX 一 1 ；
 如 果 dxXdy 大 于 0 ， 则 iXn=iX—l ， iXnP2=iX—2 ， iXnN1 一 iX + 1 ；
 CiX ” + 0 × （ 32 + 07 丆 ） + 厂 CiX P2 + 0 × 0 丿 + 64 ） 〉 〉 7 ， （ x 一 0 、 N 一 10
-如 果 iX 等 于 一 1.
-4 ）
+如 果 iX 等 于 一 1.4 ）
 如 果 dxX dy 小 于 0 ， 则 iYn=iY+l ， iYnP2=iYH-2 ， iYnN1=iY—1,
 如 果 dxX dy 大 于 0 ， 则 iYn = i Y 一 1 ， iYnP2=iY—2 ， iYnN1=iY+1 ；
 “ dM “ [ ， 3 ， ] ： 00 NI + 0 × （ 32 一 0 丿 、 丆 s “ ） + cCiY + 0 × （ 64 一 0 丿 、 丆 丷 ／ ） + cCiY ”
