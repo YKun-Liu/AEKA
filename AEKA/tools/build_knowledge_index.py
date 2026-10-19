@@ -98,6 +98,49 @@ def main():
                     "text": content,
                 })
             print(f"{kb}: {std_no} -> {len(pages)} 页")
+
+    # ---- 项目资料（Markdown，按二级标题切块）----
+    proj_dir = os.path.join(ROOT, "knowledge", "07_项目资料")
+    if os.path.isdir(proj_dir):
+        for md in sorted(glob.glob(os.path.join(proj_dir, "*.md"))):
+            text = open(md, encoding="utf-8").read()
+            title = ""
+            for line in text.splitlines():
+                if line.startswith("# "):
+                    title = line[2:].strip()
+                    break
+            # 按二级标题（## ）切块，保留标题作上下文
+            sections, cur = [], None
+            for line in text.splitlines():
+                if line.startswith("## "):
+                    if cur is not None:
+                        sections.append(cur)
+                    cur = [line[3:].strip(), [line]]
+                elif cur is not None:
+                    cur[1].append(line)
+            if cur is not None:
+                sections.append(cur)
+            if not sections:
+                sections = [(title or os.path.basename(md), [text])]
+            for sec_title, lines in sections:
+                body = "\n".join(lines).strip()
+                if not body:
+                    continue
+                chunks.append({
+                    "std_no": "项目资料",
+                    "std_name": title or os.path.basename(md),
+                    "category": "07_项目资料",
+                    "std_type": "项目认知（C级）",
+                    "admin_dept": "",
+                    "issue_date": "",
+                    "implement_date": "",
+                    "status": "非规范：项目实务认知，不可作为条款引用",
+                    "quality": sec_title,
+                    "page": 0,
+                    "text": body,
+                })
+            print(f"07_项目资料: {os.path.basename(md)} -> {len(sections)} 段")
+
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump(chunks, open(OUT, "w", encoding="utf-8"), ensure_ascii=False)
     print(f"\nTOTAL chunks: {len(chunks)} -> {OUT}")
