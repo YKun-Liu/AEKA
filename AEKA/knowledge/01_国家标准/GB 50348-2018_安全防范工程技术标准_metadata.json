@@ -1,0 +1,22 @@
+{
+  "std_no": "GB 50348-2018",
+  "std_name": "安全防范工程技术标准",
+  "std_name_en": "Technical standard for security engineering",
+  "standard_type": "国家标准（工程建设类）",
+  "phase": "技术标准（设计/施工/验收）",
+  "publisher": "中华人民共和国住房和城乡建设部、国家市场监督管理总局",
+  "admin_dept": "中华人民共和国公安部（主编部门）",
+  "issue_date": "2018-05-14",
+  "implement_date": "2018-12-01",
+  "replaces": "",
+  "status": "现行",
+  "kb_category": "01_国家标准",
+  "source": "用户 Liu 提供（人工确认入库）",
+  "quality_note": "文本由 PyMuPDF 从用户提供的 PDF 直接提取（非 OCR）；已生成去字间空格/全角转半角的清洗版供检索",
+  "date_source": "PDF 封面（2018-05-14 发布 / 2018-12-01 实施）",
+  "kb_category_note": "分类沿用既有实践：按标准来源（国标/民航）；阶段属性见 phase 字段",
+  "ingest_date": "2026-09-17",
+  "raw_file": "data\\raw\\GB503482018安全防范工程技术标准.pdf",
+  "processed_file": "data\\processed\\GB 50348-2018_安全防范工程技术标准.txt",
+  "pages": 285
+}

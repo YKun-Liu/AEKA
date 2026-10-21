@@ -1,0 +1,23 @@
+{
+  "std_no": "GB 50395-2007",
+  "std_name": "视频安防监控系统工程设计规范",
+  "std_name_en": "Code of design for video monitoring system",
+  "standard_type": "国家标准（工程建设类）",
+  "phase": "设计规范",
+  "publisher": "中华人民共和国建设部",
+  "admin_dept": "中华人民共和国公安部（主编部门）",
+  "issue_date": "2007-03-21",
+  "implement_date": "2007-08-01",
+  "replaces": "",
+  "status": "现行",
+  "kb_category": "01_国家标准",
+  "source": "用户 Liu 提供（人工确认入库）",
+  "quality_note": "文本由 PyMuPDF 从用户提供的 PDF 直接提取（非 OCR）；已生成去字间空格/全角转半角的清洗版供检索",
+  "date_source": "PDF 公告第587号（2007-03-21 批准 / 2007-08-01 实施）",
+  "kb_category_note": "分类沿用既有实践：按标准来源（国标/民航）；阶段属性见 phase 字段",
+  "ingest_date": "2026-09-17",
+  "raw_file": "data\\raw\\GB50395-2007视频安防监控系统设计规范.pdf",
+  "processed_file": "data\\processed\\GB 50395-2007_视频安防监控系统工程设计规范.txt",
+  "pages": 23,
+  "mandatory_clauses": "3.0.3、5.0.4(3)、5.0.5、5.0.7(3)"
+}

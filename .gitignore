@@ -1,0 +1,19 @@
+# ---- AEKA 知识工程仓库忽略规则 ----
+
+# 规范抓取/OCR 大体积中间产物（约 1.4 GB；可用 tools/fetch_gb_online.py 重新生成）
+AEKA/data/gb_fetch/
+
+# 归档的临时过程脚本（仅本地留存，可追溯历史处理步骤）
+AEKA/data/_archive/
+
+# 原始规范 PDF（大二进制，不入库）
+# 说明：data/raw/ 下的原始 PDF 由用户提供或官方渠道获取，体积大（约 29 MB），
+#      不纳入 Git；获取方式与来源记录见 knowledge/ 下的 metadata（source/date_source 字段）
+#      及 docs/ 下的渠道实测文档。若需版本化二进制，请改用 Git LFS。
+AEKA/data/raw/*.pdf
+
+# 运行时 / 临时产物
+*.migrated.*
+AEKA/plugins_list_tmp.txt
+HEARTBEAT.md.doctor-archived.*/
+**/.dreams/

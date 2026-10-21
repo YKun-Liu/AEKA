@@ -1,0 +1,26 @@
+{
+  "std_no": "MH/T 7003-2017",
+  "std_name": "民用运输机场安全保卫设施",
+  "std_name_en": "Security facilities of civil transportation airport",
+  "standard_type": "民航行业标准",
+  "ics": "13.310",
+  "ccs": "A 91",
+  "publisher": "中国民用航空局",
+  "issue_date": "2017-07-06",
+  "implement_date": "2017-10-01",
+  "replaces": "MH/T 7003-2008",
+  "supersedes_history": [
+    "MH 7003-95",
+    "MH/T 7003-2008"
+  ],
+  "proposer": "中国民用航空局公安局",
+  "admin_dept": "中国民航科学技术研究院",
+  "drafting_unit": "中国民航科学技术研究院",
+  "status": "现行有效（正式发布版）",
+  "kb_category": "02_民航标准",
+  "source": "用户 Liu 提供（人工确认入库）",
+  "ingest_date": "2026-08-26",
+  "raw_file": "data\\raw\\4._民用运输机场安全保卫设施_MHT_7003-2017_正式发布版---dea9ab63-5d36-48a6-9636-1e5d0500bb0b.pdf",
+  "processed_file": "data\\processed\\MH_T 7003-2017_民用运输机场安全保卫设施.txt",
+  "pages": 30
+}

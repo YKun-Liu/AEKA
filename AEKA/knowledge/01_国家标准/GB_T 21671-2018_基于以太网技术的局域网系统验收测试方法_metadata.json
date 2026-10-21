@@ -1,0 +1,15 @@
+{
+  "std_no": "GB/T 21671-2018",
+  "std_name": "基于以太网技术的局域网系统验收测试方法",
+  "standard_type": "推荐性国标",
+  "admin_dept": "国家标准化管理委员会",
+  "issue_date": "2018-06-07",
+  "implement_date": "2019-01-01",
+  "status": "现行（在线预览图源抓取，非官方 PDF 版）",
+  "kb_category": "01_国家标准",
+  "source": "国家标准全文公开系统 openstd.samr.gov.cn 在线预览自动抓取（非人工提供，未做人工全文校对）",
+  "quality_note": "全文由官方在线预览页图片经瓦片重组+OCR 生成；文字可用于检索与交叉比对，正式引用条款前应核对官方文本/纸质出版物；OCR 对个别符号（如 I/l、全半角括号）可能存在误读",
+  "ingest_date": "2026-09-07",
+  "pages": 23,
+  "remark": "抓取链路见 docs/openstd抓取链路实测_2026-09-07.md；hcno=FD5A2CF8369330FB689D80B8A7D3ECFC"
+}
